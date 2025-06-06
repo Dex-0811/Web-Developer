@@ -66,3 +66,8 @@ function addRowToTable(action, date, time) {
 
   table.appendChild(newRow);
 }
+
+const milkCount = {
+  action: '🍼Milk',
+  count: 
+}
